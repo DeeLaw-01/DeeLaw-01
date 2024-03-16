@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am an aspiring game developer, currently a CS student at National University of Modern Languages.<br>I am an aspiring game developer forced to work on WinForms, .NET framework.<br> I work with C++ , JAVA and other old people programming languages too ヽ(⌐■_■)ノ♪♬
+I am currently a CS student at National University of Modern Languages.<br>An aspiring game developer forced to work on WinForms, .NET framework.<br> I work with C++ , JAVA and other old people programming languages too ヽ(⌐■_■)ノ♪♬
 
 
 ## 🌐 Socials:
