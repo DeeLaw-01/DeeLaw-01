@@ -13,10 +13,6 @@ Hi, I'm Waleed Ahmed, a final year CS student at the National University of Mode
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DeeLaw-01&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=DeeLaw-01&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=DeeLaw-01&icon=0&color=12)](https://visitcount.itsvg.in)
 
